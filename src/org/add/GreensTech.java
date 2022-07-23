@@ -15,6 +15,8 @@ System.out.println(" Greens Velachery");
 	}
 	private void greensAnnanagar() {
 System.out.println("Greens Annanagar");
+System.out.println("Greens Annanagar");System.out.println("Greens Annanagar");
+System.out.println("Greens Annanagar");
 	}
 	
 	public static void main(String[] args) {
