@@ -22,6 +22,9 @@ System.out.println("Greens Annannnnnagar");
 System.out.println("Greens Annannnnnagar");
 System.out.println("Greens Annannnnnagar");
 System.out.println("Greens Annannnnnagar");
+System.out.println("Greens Annanagar");
+System.out.println("Greens ");System.out.println(" Annanagar");
+System.out.println("Greens Annanagar");
 	}
 	
 	public static void main(String[] args) {
